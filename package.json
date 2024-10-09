@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-s3-aws-files",
+  "name": "@denyspixelteh/sanity-plugin-s3-aws-files",
   "version": "1.0.2",
   "description": "Store Sanity media files in AWS S3",
   "scripts": {
