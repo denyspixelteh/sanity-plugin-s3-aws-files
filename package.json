@@ -50,5 +50,11 @@
     "@types/styled-components": "5.1.34",
     "concurrently": "^9.0.1",
     "typescript": "^5.6.2"
-  }
+  },
+  "author": "denyspixelteh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denyspixelteh/sanity-plugin-s3-aws-files/issues"
+  },
+  "homepage": "https://github.com/denyspixelteh/sanity-plugin-s3-aws-files#readme"
 }
