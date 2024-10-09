@@ -1,0 +1,22 @@
+{
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules", "build"],
+  "compilerOptions": {
+    "lib": ["DOM", "DOM.Iterable", "esnext"],
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "target": "ES2017",
+    "strict": true,
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "build",
+    "declaration": true,
+    "noImplicitAny": false,
+    "incremental": true
+  }
+}
