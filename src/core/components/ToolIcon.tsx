@@ -1,4 +1,3 @@
-import React from 'react'
 
 /**
  * Icon of a monitor with a play button.

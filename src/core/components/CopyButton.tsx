@@ -1,5 +1,5 @@
-import { ClipboardIcon, CopyIcon } from '@sanity/icons'
-import { Box, Button, Popover, Text, Tooltip } from '@sanity/ui'
+import { ClipboardIcon } from '@sanity/icons'
+import { Box, Button, Popover, Text } from '@sanity/ui'
 import ClipboardJS from 'clipboard'
 import { useEffect, useRef, useState } from 'react'
 

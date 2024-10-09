@@ -1,8 +1,6 @@
 import { CloseIcon, RestoreIcon, UploadIcon } from '@sanity/icons'
-import { Button, Card, Inline, Spinner, Stack, Text } from '@sanity/ui'
+import { Button, Card, Heading, Inline, Spinner, Stack, Text } from '@sanity/ui'
 import React from 'react'
-
-import { Heading } from '@sanity/ui'
 import { VendorConfiguration } from '../../types'
 import { useUploadReturn } from './useUpload'
 

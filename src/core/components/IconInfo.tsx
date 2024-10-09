@@ -1,5 +1,5 @@
+import { Flex, Text } from '@sanity/ui'
 import React from 'react'
-import { Text, Inline, Flex } from '@sanity/ui'
 
 const IconInfo: React.FC<{
   text: string
