@@ -5,18 +5,17 @@
     "lib": ["DOM", "DOM.Iterable", "esnext"],
     "isolatedModules": true,
     "esModuleInterop": true,
-    "jsx": "preserve",
-    "module": "esnext",
+    "jsx": "react-jsx",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "skipLibCheck": true,
-    "target": "ES2017",
+    "target": "ES6",
     "strict": true,
     "allowJs": true,
     "forceConsistentCasingInFileNames": true,
     "outDir": "build",
     "declaration": true,
-    "noImplicitAny": false,
-    "incremental": true
+    "noImplicitAny": false
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@denyspixelteh/sanity-plugin-s3-aws-files",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Store Sanity media files in AWS S3",
   "scripts": {
     "clear-lib": "node clearLib.js",
@@ -13,8 +13,8 @@
   "exports": {
     ".": {
       "types": "./build/index.d.ts",
-      "import": "./build/esm/index.js",
       "require": "./build/index.js",
+      "import": "./build/esm/index.js",
       "default": "./build/esm/index.js"
     },
     "./package.json": "./package.json"
